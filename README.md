@@ -1,7 +1,3 @@
-Below is a README file tailored to the provided Password Generator React application:
-
----
-
 # Password Generator
 
 ## Overview
@@ -27,8 +23,8 @@ This Password Generator is a React-based application that allows users to create
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
+git clone https://github.com/ashishalf/passwordGenerator.git
+cd passwordGenerator
 ```
 
 2. **Install the required packages**
